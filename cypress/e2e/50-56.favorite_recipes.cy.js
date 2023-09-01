@@ -88,7 +88,7 @@ describe('Favorite recipes screen', () => {
         .should('include', 'blackHeartIcon');
     });
 
-    it.skip('Verifica a cobertura de 45% da tela de Receitas Favoritas', () => {
+    it('Verifica a cobertura de 45% da tela de Receitas Favoritas', () => {
       cy.getCoverage().its('FavoriteRecipes.functions.pct', { timeout: 0 }).should('be.gte', 45.00);
       cy.getCoverage().its('FavoriteRecipes.branches.pct', { timeout: 0 }).should('be.gte', 45.00);
     });
