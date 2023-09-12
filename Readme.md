@@ -2,7 +2,17 @@
 
 ## Descrição
 
-Este repositório está em construção. Aqui você encontrará [breve resumo do projeto ou curso] e seus componentes.
+O "Receitas Fácil" é um aplicativo dedicado a tornar a culinária mais acessível e divertida para os usuários. Ele oferece uma ampla variedade de funcionalidades úteis:
+
+Pesquisa de Receitas: Os usuários podem procurar receitas de comidas e bebidas de acordo com suas categorias de preferência ou simplesmente digitando palavras-chave.
+
+Favoritos: Uma funcionalidade de favoritos permite que os usuários salvem suas receitas preferidas para acesso rápido e futuro.
+
+Assistente de Preparo: O aplicativo fornece uma opção para começar a receita, permitindo que os usuários marquem os ingredientes que já possuem. Isso ajuda a evitar esquecimentos durante o preparo.
+
+Registro de Receitas Preparadas: Há uma seção dedicada para receitas já preparadas. Os usuários podem manter um registro de suas experiências culinárias e até mesmo adicionar notas pessoais.
+
+Vídeos de Preparo: Cada receita vem com um vídeo demonstrativo que facilita o entendimento e o acompanhamento do processo de preparação.
 
 ## Conteúdo
 
@@ -11,7 +21,9 @@ Este repositório está em construção. Aqui você encontrará [breve resumo do
 
 ## Instruções de Instalação
 
-Descreva aqui as instruções necessárias para configurar o ambiente de desenvolvimento e instalar quaisquer dependências.
+- Faça um git clone `git clone git@github.com:ebertonArouxa/StarWarsPlanets.git`
+- Abra o repositório clonado
+- Instale as dependências `npm i`
 
 ## Como Usar
 
